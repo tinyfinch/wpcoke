@@ -1,0 +1,2 @@
+# wpcoke
+WordPress theme
